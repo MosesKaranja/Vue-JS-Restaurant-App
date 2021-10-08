@@ -46,6 +46,9 @@ export default{
                 this.$router.push({name:"Home"})
 
             }
+            else{
+                alert("Wrong email to password combination")
+            }
 
         }
     },

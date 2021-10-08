@@ -52,6 +52,12 @@
       "email": "moseskaranja830@gmail.com",
       "password": "Moses123",
       "id": 9
+    },
+    {
+      "email": "peteratieno123@gmail.com",
+      "password": "Peter123",
+      "name": "PeterAtieno",
+      "id": 10
     }
   ]
 }

@@ -48,10 +48,10 @@ export default{
     mounted(){
         let user = localStorage.getItem('user-info')
         console.log("User LocalStorage: ", user)
-        // if(user){
-        //     this.$router.push({name:'Home'})
+        if(user){
+            this.$router.push({name:'Home'})
 
-        // }
+        }
 
     }
 
