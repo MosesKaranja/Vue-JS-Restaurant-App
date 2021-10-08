@@ -1,11 +1,10 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <router-view />
 </template>
 
 <script>
-
 export default {
-  name: 'App'
+  name: 'App',
 }
 </script>
 
@@ -18,4 +17,54 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+
+</style>
+
+
+<style>
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    width:200px;
+    height:200px;
+    object-fit: cover;
+
+    /*display: block; */
+    /* object-fit: contain;
+    */
+    /* max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;  */
+
+}
+
+.register input, .login input {
+    width: 300px;
+    height: 40px;
+    padding-left: 20px;
+    display: block;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid skyblue;
+}
+
+
+.register button, .login button {
+    background: skyblue;
+    width: 320px;
+    height: 40ox;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid skyblue;
+    cursor: pointer;
+    color: #fff;
+}
+
+
 </style>

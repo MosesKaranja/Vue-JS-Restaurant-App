@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "moseskaranja830@gmail.com",
+      "password": "Moes554",
+      "name": "MosesKaranja",
+      "id": 1
+    },
+    {
+      "email": "MichaelOlunga254@gmail.com",
+      "password": "Michael665",
+      "name": "MichaelOlunga",
+      "id": 2
+    },
+    {
+      "email": "MichaelOlunga254@gmail.com",
+      "password": "Michael665",
+      "name": "MichaelOlunga",
+      "id": 3
+    },
+    {
+      "email": "WDADWASW",
+      "password": "ADSADAW",
+      "name": "daawswAD",
+      "id": 4
+    },
+    {
+      "email": "moseskaran@gmail.com",
+      "password": "Moses665",
+      "name": "William",
+      "id": 5
+    },
+    {
+      "email": "kjhmnvb",
+      "password": "lkjhg",
+      "name": "lkjhgfd",
+      "id": 6
+    },
+    {
+      "email": "kjhn",
+      "password": "kjhn",
+      "name": "kjhn",
+      "id": 7
+    },
+    {
+      "email": "moseskaran@gmail.com",
+      "password": "Moses123",
+      "name": "Moses",
+      "id": 8
+    },
+    {
+      "email": "moseskaranja830@gmail.com",
+      "password": "Moses123",
+      "id": 9
+    }
+  ]
+}
