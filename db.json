@@ -59,5 +59,30 @@
       "name": "PeterAtieno",
       "id": 10
     }
+  ],
+  "restaurant":[
+    {
+      "id":1,
+      "name":"Chicken Inn",
+      "contact":1234,
+      "address":"Kayole Mall"
+      
+    },
+    {
+      "id":1,
+      "name":"Pizza Inn",
+      "contact":1234,
+      "address":"Kayole Ziwani Mall"
+    
+    },
+    {
+      "id":1,
+      "name":"Java",
+      "contact":98765,
+      "address":"Madaraka Estate"
+      
+    }
   ]
+
+
 }
